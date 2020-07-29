@@ -1,4 +1,5 @@
-![Hey there, I'm Armando. I'm a data scientist, a adventure seeker. Check out my work](https://github.com/ArmandoSep/ArmandoSep/raw/master/bio.gif)
+
+<img src="https://github.com/ArmandoSep/ArmandoSep/raw/master/bio.gif" width="600">
 
 
 <a href="https://www.linkedin.com/in/armando-sepulveda/">
