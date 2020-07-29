@@ -1,5 +1,5 @@
 
-<img src="https://giphy.com/gifs/W36KiH4Iwyo27o9JbJ" width="100%">
+<img src="https://giphy.com/gifs/W36KiH4Iwyo27o9JbJ/html5" width="100%">
 
 
 <a href="https://www.linkedin.com/in/armando-sepulveda/">
