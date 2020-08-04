@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ArmandoSep/ArmandoSep/raw/master/armando.gif" width="100%">
+<!---<img src="https://github.com/ArmandoSep/ArmandoSep/raw/master/armando.gif" width="100%"> --->
 
 
 <a href="https://www.linkedin.com/in/armando-sepulveda/">
